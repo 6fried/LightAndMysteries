@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "position": [3.29, 0.7, 0],
+      "rotation": [0, -40, 0]
+    }
+  ],
+  "targets": [
+    {
+      "position": [0.85, 0.7, 0.65]
+    },
+    {
+      "position": [-0.85, 0.7, 0.65]
+    }
+  ],
+  "grid": [
+    "CMC",
+    "000",
+    "CCC",
+    "MCC"
+  ],
+  "description": "As-tu déjà observé ton reflet dans l’eau ou dans un miroir ? C’est la réflexion : la lumière rebondit sur une surface au lieu de la traverser. C’est aussi ce principe qui permet aux périscopes et aux rétroviseurs de fonctionner. Sans réflexion, pas de selfies !"
+}

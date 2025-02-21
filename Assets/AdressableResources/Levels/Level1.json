@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "position": [-2.5, 0.7, 2.5],
+      "rotation": [0, 135, 0]
+    }
+  ],
+  "targets": [
+    {
+      "position": [4.2, 0.7, 1]
+    }
+  ],
+  "grid": [
+    "M00",
+    "0C0",
+    "00C"
+  ],
+  "description": "La lumière est incroyablement rapide : 300 000 km/s dans le vide, de quoi faire sept fois le tour de la Terre en une seconde ! Mais ce qui est encore plus fascinant, c’est qu’en l’absence d’obstacles, elle voyage toujours en ligne droite. C’est grâce à ça que les ombres ont des contours nets et que tu peux voir les étoiles à des années-lumière de nous."
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "position": [0, 0.7, -2],
+      "rotation": [0, 42, 0]
+    }
+  ],
+  "targets": [
+    {
+      "position": [1.75, 0.7, -2]
+    },
+    {
+      "position": [-1.75, 0.7, 1.5]
+    }
+  ],
+  "grid": [
+    "MCCM",
+    "0CCC",
+    "M00C",
+    "CCCC"
+  ],
+  "description": "Pourquoi le ciel est-il bleu et le coucher de soleil orange ? Parce que la lumière blanche est en réalité un mélange de plusieurs couleurs ! L’atmosphère diffuse la lumière du Soleil, et les petites longueurs d’onde comme le bleu sont plus dispersées que les autres. Le matin et le soir, la lumière traverse plus d’air, donc on voit davantage de rouge et d’orange."
+}

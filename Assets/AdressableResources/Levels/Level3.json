@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "position": [-3, 0.7, 0.5],
+      "rotation": [0, 145, 0]
+    }
+  ],
+  "targets": [
+    {
+      "position": [2.5, 0.7, -0.35]
+    }
+  ],
+  "grid": [
+    "MMM",
+    "CCC",
+    "CCC"
+  ],
+  "description": "Regarde une paille plongée dans un verre d’eau : elle semble brisée. Ce phénomène, c’est la réfraction ! Quand la lumière passe d’un milieu à un autre (comme de l’air à l’eau), sa vitesse change et elle se courbe. C’est grâce à ça que les lentilles des lunettes corrigent la vue et que les arcs-en-ciel existent."
+}

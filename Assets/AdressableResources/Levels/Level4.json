@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "position": [-2.75, 0.7, 2.35],
+      "rotation": [0, 140, 0]
+    }
+  ],
+  "targets": [
+    {
+      "position": [2.6, 0.7, 0.6]
+    }
+  ],
+  "grid": [
+    "0CCC",
+    "CMCC",
+    "CCCC",
+    "MCCC"
+  ],
+  "description": "La lumière aime jouer avec les obstacles ! Lorsqu’elle passe à travers une petite ouverture ou autour d’un objet, elle s’étale et se déforme. C’est ce qu’on appelle la diffraction. Sans ce phénomène, les CD et DVD n’auraient pas ces reflets colorés, et les ondes Wi-Fi ne pourraient pas contourner les murs !"
+}
